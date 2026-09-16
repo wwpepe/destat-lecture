@@ -29,3 +29,10 @@
 
 # Snapshot cheatcodes output
 /snapshots
+
+# Editor settings
+/.vscode
+
+# Agent instructions
+/AGENTS.md
+/CLAUDE.md
