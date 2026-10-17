@@ -36,3 +36,6 @@
 # Agent instructions
 /AGENTS.md
 /CLAUDE.md
+
+# Hardhat Ignition local deployments
+/ignition/deployments/chain-31337
