@@ -9,9 +9,12 @@
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
+    "@rabby-wallet/rabbykit": "^0.1.4",
     "@react-router/node": "^8.4.0",
     "@react-router/serve": "^8.4.0",
     "@supabase/supabase-js": "^2.118.0",
+    "@wagmi/connectors": "^6.2.0",
+    "@wagmi/core": "^2.22.1",
     "class-variance-authority": "^0.7.1",
     "cn": "^0.5.0",
     "isbot": "^5.1.36",
@@ -19,7 +22,8 @@
     "radix-ui": "^1.8.1",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-router": "^8.4.0"
+    "react-router": "^8.4.0",
+    "viem": "^2.57.7"
   },
   "devDependencies": {
     "@react-router/dev": "^8.4.0",
